@@ -1,7 +1,7 @@
 
 document .getElementById("datos").onclick = function(){
     
-    document .getElementsByClassName("section")[0].innerHTML = "</a><h2>DATOS PERSONALES</h2><ul><li>Nombre apellido: Pablo Pallas</li><li>DNI: 37077761</li><li>Fecha de Nacimiento: 11 de noviembre de 1992</li><li>Localidad: Cañada de Gómez</li><li>Dirección: Quintana 186</li><li>Teléfono Móvil: (03471) 15628960 </li><li>E-Mail: pallaspablo92@gmail.com </li><li>Responsabilidad 2</li></ul>"
+    document .getElementsByClassName("section")[0].innerHTML = "</a><h2>DATOS PERSONALES</h2><ul><li>Nombre apellido: Pablo Pallas</li><li>DNI: 37077761</li><li>Fecha de Nacimiento: 11 de noviembre de 1992</li><li>Localidad: Cañada de Gómez</li><li>Dirección: Quintana 186</li><li>Teléfono Móvil: (03471) 15628960 </li><li>E-Mail: pallaspablo92@gmail.com </li></ul>"
 }
 
 document .getElementById("formacion").onclick = function(){
@@ -11,7 +11,7 @@ document .getElementById("formacion").onclick = function(){
 
 document .getElementById("idioma").onclick = function(){
     
-    document .getElementsByClassName("section")[0].innerHTML = "<h2>IDIOMA</h2><ul><li>Nativo: Castellano </li><li>Instruido: Inglés básico </li><li>Habilidad 3</li></ul>"
+    document .getElementsByClassName("section")[0].innerHTML = "<h2>IDIOMA</h2><ul><li>Nativo: Castellano </li><li>Instruido: Inglés básico </li></ul>"
 }
 
 document .getElementById("cursos").onclick = function(){
